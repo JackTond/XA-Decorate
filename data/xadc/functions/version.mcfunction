@@ -1,0 +1,1 @@
+tellraw @s {"text":"XA Decorate Build 1","color":"yellow"}
