@@ -1,6 +1,10 @@
 {
     "replace": false,
     "values": [
-        "xadc:f/tick"
+        "xadc:decorate/cherry",
+        "xadc:decorate/heart",
+        "xadc:decorate/knowledge",
+        "xadc:decorate/rain",
+        "xadc:decorate/white_star"
     ]
 }
