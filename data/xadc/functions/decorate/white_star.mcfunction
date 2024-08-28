@@ -1,0 +1,1 @@
+execute as @a[tag=xadcWhiteStar,tag=!xadcHide] at @s run particle minecraft:firework ~ ~0.5 ~ 0.5 0 0.5 0.01 2 force @a

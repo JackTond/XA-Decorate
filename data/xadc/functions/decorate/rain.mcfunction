@@ -1,0 +1,2 @@
+execute as @a[tag=xadcRain,tag=!xadcHide] at @s run particle minecraft:cloud ~ ~3 ~ 0.5 0.25 0.5 0.00001 2 force @a
+execute as @a[tag=xadcRain,tag=!xadcHide] at @s run particle minecraft:falling_water ~ ~3 ~ 0.5 0.25 0.5 1 2 force @a
