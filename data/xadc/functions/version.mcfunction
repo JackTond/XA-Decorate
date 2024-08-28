@@ -1,1 +1,1 @@
-tellraw @s {"text":"XA Decorate Build 1","color":"yellow"}
+tellraw @s {"text":"XA Decorate Build 2","color":"yellow"}
