@@ -1,6 +1,6 @@
 {
     "pack": {
-		"pack_format": 26,
+	"pack_format": 26,
         "supported_formats": [26,32767],
         "description": "XA Decorate"
     }
