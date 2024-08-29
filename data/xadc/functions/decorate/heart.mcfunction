@@ -1,1 +1,0 @@
-execute as @a[tag=xadcHeart,tag=!xadcHide] at @s run particle minecraft:heart ~ ~2 ~ 0.5 0 0.5 1 1 force @a
