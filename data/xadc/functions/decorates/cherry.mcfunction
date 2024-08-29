@@ -1,0 +1,1 @@
+execute as @a[tag=xadcCherry,tag=!xadcHide] at @s run particle minecraft:cherry_leaves ~ ~3 ~ 0.5 0.25 0.5 1 1 force @a

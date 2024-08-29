@@ -1,0 +1,2 @@
+tellraw @s {"text":"English","color":"aqua","clickEvent":{"action":"run_command","value":"/function xadc:helps/en"}}
+tellraw @s {"text":"中文","color":"aqua","clickEvent":{"action":"run_command","value":"/function xadc:helps/cn"}}
