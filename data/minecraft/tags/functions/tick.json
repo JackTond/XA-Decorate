@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "xadc:decorate/cherry",
-        "xadc:decorate/heart",
-        "xadc:decorate/knowledge",
-        "xadc:decorate/rain",
-        "xadc:decorate/white_star"
+        "xadc:decorates/cherry",
+        "xadc:decorates/heart",
+        "xadc:decorates/knowledge",
+        "xadc:decorates/rain",
+        "xadc:decorates/white_star"
     ]
 }
